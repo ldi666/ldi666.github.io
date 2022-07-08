@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://win955.ml/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-07-08T10:11:26.170Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://win955.ml/"/>
+  <updated>2022-07-08T13:12:21.623Z</updated>
+  <id>http://win955.ml/</id>
   
   <author>
     <name>di</name>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>风景图片</title>
+    <link href="http://win955.ml/2022/07/08/%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/"/>
+    <id>http://win955.ml/2022/07/08/%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/</id>
+    <published>2022-07-08T13:08:25.000Z</published>
+    <updated>2022-07-08T13:12:21.623Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://t7.baidu.com/it/u=3734967019,941734598&fm=193&f=GIF"></p><br><p><img src="https://t7.baidu.com/it/u=2610975262,3538281461&fm=193&f=GIF"></p><br><p><img src="https://t7.baidu.com/it/u=2942499027,2479446682&fm=193&f=GIF"></p><br><p><img src="https://t7.baidu.com/it/u=2604797219,1573897854&fm=193&f=GIF"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://t7.baidu.com/it/u=3734967019,941734598&amp;fm=193&amp;f=GIF&quot;&gt;&lt;/p&gt;
+&lt;br&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://t7.baidu.com/it/u=2610975262,35382</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
-    <link href="http://example.com/2022/07/08/test/"/>
-    <id>http://example.com/2022/07/08/test/</id>
+    <link href="http://win955.ml/2022/07/08/test/"/>
+    <id>http://win955.ml/2022/07/08/test/</id>
     <published>2022-07-08T10:11:04.000Z</published>
     <updated>2022-07-08T10:11:26.170Z</updated>
     
@@ -34,14 +57,14 @@
     
     
     
-    <category term="test" scheme="http://example.com/tags/test/"/>
+    <category term="test" scheme="http://win955.ml/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>杨紫</title>
-    <link href="http://example.com/pages/bf5c7f/"/>
-    <id>http://example.com/pages/bf5c7f/</id>
+    <link href="http://win955.ml/pages/bf5c7f/"/>
+    <id>http://win955.ml/pages/bf5c7f/</id>
     <published>2021-12-03T16:48:05.000Z</published>
     <updated>2022-07-08T11:01:23.419Z</updated>
     
@@ -55,7 +78,7 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://win955.ml/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
