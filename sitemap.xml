@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://win955.ml/2022/07/08/%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/</loc>
+    <loc>http://win955.ml/2022/07/08/test/</loc>
     
-    <lastmod>2022-07-08</lastmod>
+    <lastmod>2022-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://win955.ml/2022/07/08/test/</loc>
+    <loc>http://win955.ml/2022/07/08/%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/</loc>
     
-    <lastmod>2022-07-08</lastmod>
+    <lastmod>2022-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -81,5 +81,19 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://win955.ml/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://win955.ml/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
