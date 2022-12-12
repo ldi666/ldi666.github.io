@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://win955.ml/pages/8c7d38/</loc>
+    <loc>http://win955.ml/pages/2bfc58/</loc>
     
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://win955.ml/pages/2bfc58/</loc>
+    <loc>http://win955.ml/pages/8c7d38/</loc>
     
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://win955.ml/pages/962943/</loc>
+    
+    <lastmod>2022-12-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>http://win955.ml/pages/f7050f/</loc>
-    
-    <lastmod>2022-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://win955.ml/pages/962943/</loc>
     
     <lastmod>2022-12-11</lastmod>
     
@@ -112,7 +112,7 @@
 
   <url>
     <loc>http://win955.ml/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,14 +120,14 @@
   
   <url>
     <loc>http://win955.ml/tags/test/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://win955.ml/tags/%E5%81%B6%E5%83%8F/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -135,29 +135,29 @@
 
   
   <url>
-    <loc>http://win955.ml/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://win955.ml/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://win955.ml/categories/%E7%88%B1%E8%B1%86/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://win955.ml/categories/%E8%8A%82%E6%97%A5/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2022-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://win955.ml/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2022-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://win955.ml/categories/%E7%88%B1%E8%B1%86/</loc>
+    <lastmod>2022-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
