@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://win955.ml/2022/12/25/%E7%88%B1%E8%B1%86/%E5%B9%B3%E5%AE%89%E5%A4%9C%E5%BF%AB%E4%B9%90/</loc>
+    <loc>http://win955.ml/2022/07/08/%E6%97%A5%E5%B8%B8/%E4%BB%8A%E6%97%A5%E8%AF%97%E8%AF%8D/</loc>
+    
+    <lastmod>2022-12-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://win955.ml/pages/20221224/</loc>
     
     <lastmod>2022-12-24</lastmod>
     
@@ -48,15 +57,6 @@
   
   <url>
     <loc>http://win955.ml/2022/07/08/%E9%A3%8E%E6%99%AF%E5%9B%BE%E7%89%87/</loc>
-    
-    <lastmod>2022-12-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://win955.ml/2022/07/08/%E4%BB%8A%E6%97%A5%E8%AF%97%E8%AF%8D/</loc>
     
     <lastmod>2022-12-11</lastmod>
     
@@ -128,7 +128,7 @@
 
   
   <url>
-    <loc>http://win955.ml/tags/test/</loc>
+    <loc>http://win955.ml/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,14 +144,14 @@
 
   
   <url>
-    <loc>http://win955.ml/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://win955.ml/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://win955.ml/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>http://win955.ml/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-12-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
